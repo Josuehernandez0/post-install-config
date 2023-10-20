@@ -10,10 +10,7 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/fX-EOyscj6w)
-- This link is to log into OsTicket http://localhost/osTicket/scp/login.php
 
 <h2>Environments and Technologies Used</h2>
 
