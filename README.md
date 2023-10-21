@@ -231,133 +231,133 @@ Now go to the account tab then type john doe. For the email type johndoe@osticke
 </p>
 <br />
 
-<img src=""/>
+<img src="https://i.imgur.com/EOwIoEf.png"/>
 </p>
 <p>
 Next click the access tab then for the primary department click support then click view only. Click the create tab 
 </p>
 <br />
 
-<img src="https://i.imgur.com/EOwIoEf.png"/>
+<img src="https://i.imgur.com/O4LWHGm.png"/>
 </p>
 <p>
 Now go to the agents tab and you will see john doe then click add new agent 
 </p>
 <br />
 
-<img src=""/>
+<img src="https://i.imgur.com/7H8BNa4.png"/>
 </p>
 <p>
 Next type karen karen then for the email address type karenkaren@osticket.com. Then for the username type karenkaren 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c9610f9-2ca4-452b-9ad6-1826c33d720d"/>
+<img src="https://i.imgur.com/L7AP9O6.png"/>
 </p>
 <p>
 Now go to the access tab and for the primary department click support then click view only. Then click create 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5380aa44-b445-4124-aae1-30c08d3ff466"/>
+<img src="https://i.imgur.com/4fkl32I.png"/>
 </p>
 <p>
 Next go back to the agents tab and you will see that karenkaren was created. Click add new agent 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/39400b35-6b5a-49d2-a183-60e92354f18a"/>
+<img src="https://i.imgur.com/hDeqTzS.png"/>
 </p>
 <p>
 Type ken ken for the name section. Then for the email section type kenken@osticket.com followed by the username under kenken 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b4bfb33d-1f30-4616-a3a2-8907eb9fbcec"/>
+<img src="https://i.imgur.com/k2E6KAp.png"/>
 </p>
 <p>
 Go to the access tab and for the primary department click support then click view only now click create 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5cfac814-5ef9-43b1-bf4d-c88b4d4842cd"/>
+<img src="https://i.imgur.com/5nT2lpA.png"/>
 </p>
 <p>
 Click the manage tab then click SLA 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/fcfb9ca9-d3e3-47ce-b62b-34291686bbc4"/>
+<img src="https://i.imgur.com/luJV9Bt.png"/>
 </p>
 <p>
 Next click add new SLA plan 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/18b6c4eb-3059-46a3-85a5-009950a5a6d1"/>
+<img src="https://i.imgur.com/DBl16ZF.png"/>
 </p>
 <p>
 Now type SEV-A and the grade period type 1. For the schedule click 24/7 then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/078199f8-df6e-4525-bea5-6233cd933371"/>
+<img src="https://i.imgur.com/blkrgDm.png"/>
 </p>
 <p>
 Now type SEV-B and the grade period type 4. For the schedule click 24/7 then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/eb6f6e24-e592-4b0d-a02f-57cac4551604"/>
+<img src="https://i.imgur.com/2nAZjMv.png"/>
 </p>
 <p>
 Click SLA nad you will see SEV-A and SEV-B was created. Next click add new SLA Plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/88dac918-dc19-4a48-baad-169002e6a1bd"/>
+<img src="https://i.imgur.com/RGGrR8e.png"/>
 </p>
 <p>
 Now type SEV-C and the grade period type 8. For the schedule click Monday to Friday 8am to 5pm with US Holiday then click add plan
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/7e1d5a68-6c8a-48c7-bb16-820608b036c2"/>
+<img src="https://i.imgur.com/AJIevVK.png"/>
 </p>
 <p>
 Click SLA nad you will see SEV-A, SEV-B, and SEV-C was created. Now click help topics 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d48a32fd-7fe1-49e0-833d-f7dde259c7bc"/>
+<img src="https://i.imgur.com/Sqp0KDD.png"/>
 </p>
 <p>
 Click add new help topic
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/17bb25a1-f871-4486-ac16-3400d4a056ca"/>
+<img src="https://i.imgur.com/hyGCF3j.png"/>
 </p>
 <p>
 Type Business Critical Outage then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d1c7f172-184e-4277-8932-a01f4e65b681"/>
+<img src="https://i.imgur.com/alj1vji.png"/>
 </p>
 <p>
 Click create new help topic then type Personal Computer Issues then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/0c38a950-4009-4b35-9020-f551ec5b8392"/>
+<img src="https://i.imgur.com/IluIx0X.png"/>
 </p>
 <p>
 Next click new ticket options and for the priority section lcik normal and the SLA plan click SEV-C then click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/111deac2-7632-419d-b13d-805620af1249"/>
+<img src=""/>
 </p>
 <p>
 Now go back to help topics menu and click Business Ciritical Outage 
