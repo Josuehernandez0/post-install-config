@@ -238,14 +238,14 @@ Next click the access tab then for the primary department click support then cli
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/ed6972b6-2b9d-4cf0-b7cc-f659693f86a8"/>
+<img src="https://i.imgur.com/EOwIoEf.png"/>
 </p>
 <p>
 Now go to the agents tab and you will see john doe then click add new agent 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c2a5761-30f7-483b-a704-31d994ee1b52"/>
+<img src=""/>
 </p>
 <p>
 Next type karen karen then for the email address type karenkaren@osticket.com. Then for the username type karenkaren 
