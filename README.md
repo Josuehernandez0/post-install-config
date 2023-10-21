@@ -364,7 +364,7 @@ Now go back to help topics menu and click Business Ciritical Outage
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/8d0109d3-530d-4f0a-bf3d-880860fcf507"/>
+<img src=""/>
 </p>
 <p>
 Next click new ticket options, for the department click Support. The priority section click Emergency and the SLA plan click SEV-A. Finally click save changes 
