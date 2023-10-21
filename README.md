@@ -357,52 +357,52 @@ Next click new ticket options and for the priority section lcik normal and the S
 </p>
 <br />
 
-<img src=""/>
+<img src="https://i.imgur.com/wcRrYtB.png"/>
 </p>
 <p>
 Now go back to help topics menu and click Business Ciritical Outage 
 </p>
 <br />
 
-<img src=""/>
+<img src="https://i.imgur.com/gNJavQC.png"/>
 </p>
 <p>
 Next click new ticket options, for the department click Support. The priority section click Emergency and the SLA plan click SEV-A. Finally click save changes 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/3466fbaa-10d3-4539-9fa3-74c7f49240af"/>
+<img src="https://i.imgur.com/1MxMwTF.png"/>
 </p>
 <p>
 Click new ticket then click next type Equipment Request 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b5e40983-31b0-478f-a169-27edff5a7754"/>
+<img src="https://i.imgur.com/jELHWiY.png"/>
 </p>
 <p>
 Now click new ticket options for department click Support. Now for priority click low then for SLA plan click SEV-C. Finally click add topic 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/74a649cf-0203-4502-8559-587c79d98ad0"/>
+<img src="https://i.imgur.com/JObl8yK.png"/>
 </p>
 <p>
 Go back to help topics, you will see Equipment request was created then click add new help topics
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/cb134a86-4f34-4641-9338-ebd1372d0077"/>
+<img src="https://i.imgur.com/RnwDITv.png"/>
 </p>
 <p>
 Type Password Reset 
 </p>
 <br />
 
-<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/e67187fa-62fa-49e2-bcab-dac168ef718a"/>
+<img src="https://i.imgur.com/gp9PId3.png"/>
 </p>
 <p>
-Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic. Next click the link to continue the Ticket Lifecycle Examples https://github.com/Jacobvillagomez1/ticket-lifecycle
+Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic. Next click the link to continue the Ticket Lifecycle Examples https://github.com/Josuehernandez0/ticket-lifecycle
 </p>
 <br />
 
